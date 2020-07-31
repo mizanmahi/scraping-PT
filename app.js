@@ -5,7 +5,7 @@ const jsdom = require('jsdom');
 const { JSDOM } = jsdom; 
 const axios = require('axios');
 const glob = require("glob");
-//const fetch = require('fetch').fetchUrl;
+
 
 const validateEmail = /([a-zA-Z0-9._-]+@[a-zA-Z0-9._-]+\.[a-zA-Z0-9_-]+)/;
 
