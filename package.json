@@ -9,7 +9,7 @@
   "author": "mizanmahi",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "debug": "^4.1.1",
     "fetch": "^1.1.0",
     "glob": "^7.1.6",
